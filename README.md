@@ -1,7 +1,7 @@
 # Orientation Exercises For Python
 This is a suggested order for completing the exercises in orientation:
 
-## [Intermediate exercises](./intermediate_orientation)
+## [Intermediate exercises]
 1. [Family Dictionary](./family_dict.py)
 1. [Kill Nickelback](./nickleback.py)
 1. [RandomSquared](random_squared.py)
